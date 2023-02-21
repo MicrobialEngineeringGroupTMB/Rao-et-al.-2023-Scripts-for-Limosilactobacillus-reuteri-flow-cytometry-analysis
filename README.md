@@ -12,6 +12,8 @@ The repository contains three Matlab scripts, all of which are designed to proce
 
 * a script for automated gating using k-means clustering
 
+Notebooks with examples data are available for the <a href="https://microbialengineeringgrouptmb.github.io/Rao-et-al.-2023-Scripts-for-Limosilactobacillus-reuteri-flow-cytometry-analysis/fixed_gates_live_script.html">fixed gating script</a> and for the k-means gating script.
+
 If there is anything in this repository that you found useful for your own work, we would be grateful if you would consider citing the Rao et al (2023) paper.
 
 ## Dependencies
