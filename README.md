@@ -20,9 +20,8 @@ If there is anything in this repository that you found useful for your own work,
 
 * Matlab (the initial commit was tested with version 2022a) 
 
-* fca_readfcs (version used for the initial commit was 2020.06.22)
+* fca_readfcs (v2020.06.22 was used for the initial commit)
 https://se.mathworks.com/matlabcentral/fileexchange/9608-fca_readfcs
-
 
 * the following Matlab toolboxes: Statistics and Machine Learning, Curve Fitting, Fixed-point Designer
 
