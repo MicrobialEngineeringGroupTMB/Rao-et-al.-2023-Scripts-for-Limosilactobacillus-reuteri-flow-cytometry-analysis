@@ -8,9 +8,9 @@ The repository contains three Matlab scripts, all of which are designed to proce
 
 * a wrapper script to call on a fcs reader (Balkay, 2023) to load the flow cytometry data (FCS3.1 format) into Matlab
 
-* a script for fixed gating
+* a script for fixed gating (*FCM_analysis_live_dead_damaged_fixed_gates_2023*)
 
-* a script for automated gating using k-means clustering
+* a script for automated gating using k-means clustering (**)
 
 Notebooks with examples data are available for the <a href="https://microbialengineeringgrouptmb.github.io/Rao-et-al.-2023-Scripts-for-Limosilactobacillus-reuteri-flow-cytometry-analysis/fixed_gates_live_script.html">fixed gating script</a> and for the k-means gating script.
 
